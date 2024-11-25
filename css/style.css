@@ -289,69 +289,6 @@ body img{
     gap: 24px;
 }
 
-.section-three{
-    width: 1440px;
-    height: 732px;
-    background-color: #f4f4fd;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.s-three-div{
-    padding: 32px 0;
-}
-
-.s-three-ul{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 24px;
-    list-style: none;
-    
-}
-
-.three-h{
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-    margin-bottom: 8px;
-
-}
-
-.three-h-two{
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
-    margin-top: 120px;
-    margin-bottom: 72px;
-
-}
-
-.three-li{
-    width: 40px;
-    height: 40px;
-    border-radius: 0px 0px 4px 4px;
-    background-color: #FFFFFF;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: calc((100% - 72px) / 4);
-    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
-}
-
-
 .third-part {
     background-color: #f4f4fd;
     padding-top: 120px;
@@ -404,8 +341,6 @@ body img{
     text-align: center;
 }
 
-/*THirth*/
-
 .social-media-button-ul {
     display: flex;
     justify-content: center;
@@ -438,41 +373,9 @@ body img{
     fill: #f4f4fd
 }
 
-.social-media-button-ull{
-    display: flex;
-    justify-content: center;
-    gap: 24px;
-}
+/*THirth*/
 
-.social-media-button-lii{
-    width: 40px;
-    height: 40px;
-}
 
-.social-media-buttonn{
-    width: 100%;
-    height: 100%;
-    background-color: #4d5ae5;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.social-media-buttonn:hover{
-    background-color: #404bbf;
-
-}
-
-.social-media-buttonn:focus{
-    background-color: #404bbf;
-
-}
-
-.social-media-svg{
-    fill: #f4f4fd;
-
-}
 
 .icons{
     display: flex;
