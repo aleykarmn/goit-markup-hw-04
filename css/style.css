@@ -535,6 +535,7 @@ footer{
     display: flex;
     align-items: baseline;
     margin-right: 120px;
+
 }
 
 footer-media-p{
@@ -544,12 +545,12 @@ footer-media-p{
     letter-spacing: 0.02em;
     color: #FFFFFF;
     margin-bottom: 16px;
-
 }
 
 .footer-ul{
     display: flex;
     gap: 16px;
+
 }
 
 .icons-li{
@@ -567,7 +568,6 @@ footer-media-p{
     display: flex;
     align-items: center;
     justify-content: center;
-
 }
 
 .icons-a:hover{
