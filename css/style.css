@@ -304,7 +304,6 @@ body img{
 
 .s-three-ul{
     display: flex;
-    flex-direction: row;
     align-items: center;
     justify-content: center;
     gap: 24px;
@@ -350,9 +349,36 @@ body img{
     align-items: center;
     width: calc((100% - 72px) / 4);
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+}
 
+.social-media-button-lii{
+    width: 40px;
+    height: 40px;
+}
 
+.social-media-buttonn{
+    width: 100%;
+    height: 100%;
+    background-color: #4d5ae5;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
+.social-media-buttonn:hover{
+    background-color: #404bbf;
+
+}
+
+.social-media-buttonn:focus{
+    background-color: #404bbf;
+
+}
+
+.social-media-svg{
+    fill: #f4f4fd;
+    
 }
 
 .icons{
@@ -550,6 +576,7 @@ body img{
     letter-spacing: 0.02em;
     color: #ffffff;
     margin-bottom: 16px;
+
 }
 
 .footer-social-media-ul {
