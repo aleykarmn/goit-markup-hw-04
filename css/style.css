@@ -351,6 +351,12 @@ body img{
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
+.social-media-button-ull{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
 .social-media-button-lii{
     width: 40px;
     height: 40px;
@@ -378,7 +384,7 @@ body img{
 
 .social-media-svg{
     fill: #f4f4fd;
-    
+
 }
 
 .icons{
