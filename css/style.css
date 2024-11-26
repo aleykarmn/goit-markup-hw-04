@@ -70,13 +70,11 @@ body img{
 
 .header-li{
     padding: 24px 0;
-
 }
 
 .first-li{
     position: relative ;
     color: #404bbf;
-
 }
 
 .first-li::after{
